@@ -1,0 +1,13 @@
+# Versions are not pinned because they were not recorded during the Kaggle runs.
+# Before publishing, replace these lines with the exact versions from the notebook:
+#   import torch, torchvision, numpy, pandas, sklearn, PIL, matplotlib
+#   print(torch.__version__, torchvision.__version__, numpy.__version__, pandas.__version__,
+#         sklearn.__version__, PIL.__version__, matplotlib.__version__)
+#   or run: pip freeze > requirements.txt   (inside the same notebook environment)
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+pillow
+matplotlib
