@@ -2,7 +2,7 @@
 
 > **Research only. Not for clinical use.** This model is a research prototype. It must not be used to diagnose, screen, or make decisions about any person's health.
 
-Autarch-v1 is a 3.10-million-parameter convolutional neural network, designed and trained from scratch (no pretrained weights), that estimates the probability that a dermoscopy image shows melanoma, compared with the other six lesion categories in the HAM10000 dataset. The Custom Architecture was designed completely from scratch by me, while Artifical Intelligence was used to optimize code production
+Autarch-v1 is a 3.10-million-parameter convolutional neural network, designed and trained from scratch (no pre-trained weights), that estimates the probability that a dermoscopy image shows melanoma, compared with the other six lesion categories in the HAM10000 dataset. The Custom Architecture was designed completely from scratch by me, white Artificial Intelligence was used to accelerate boilerplate code generation and optimization.
 
 ## Results (held-out test set, scored once)
 
