@@ -1,4 +1,4 @@
-# Dataset: do not commit i or the resized image arrays
+# Dataset: do not commit im or the resized image arrays
 *.npz
 data/
 HAM10000*/
