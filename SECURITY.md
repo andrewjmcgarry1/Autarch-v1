@@ -1,4 +1,4 @@
-Security Poli
+Security Polic
 Supported versions
 Only the latest release of Autarch-v1 receives fixes.
 
