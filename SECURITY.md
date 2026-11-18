@@ -1,4 +1,4 @@
-Security Policy
+Security P
 Supported versions
 Only the latest release of Autarch-v1 receives fixes.
 
