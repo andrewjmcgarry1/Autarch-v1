@@ -1,4 +1,4 @@
-Security Po
+Security Pol
 Supported versions
 Only the latest release of Autarch-v1 receives fixes.
 
