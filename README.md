@@ -1,4 +1,4 @@
-# Autarch-v1: me vs. other skin lesions (from-scratch CNN)
+# Autarch-v1: mel vs. other skin lesions (from-scratch CNN)
 
 > **Research only. Not for clinical use.** This model is a research prototype. It must not be used to diagnose, screen, or make decisions about any person's health.
 
